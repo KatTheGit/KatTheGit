@@ -5,6 +5,6 @@ and I love game development and low level things. I'm currently trying to write 
 
 ### My GOATs: ![Rust](https://img.shields.io/badge/Rust-Compiler-pink?style=flat&logo=rust) ![Rust](https://img.shields.io/badge/Linux-Fedora/Garuda-pink?style=flat&logo=linux&logoColor=ffffff) ![Rust](https://img.shields.io/badge/Micro-Editor-pink?style=flat&logo=microeditor) ![NASM](https://img.shields.io/badge/NASM-Assembler-pink?style=flat&logo=intel) ![Linux](https://img.shields.io/badge/Gregory-House-pink?style=flat)
 
-### For the record...
+<br>
 
-I'm [Ornithopter747](https://github.com/OrnitOnGithub), I lost full access to that account. I was still able to update my profile and transfer everything on here.
+## Dope stuff down here:
