@@ -12,5 +12,3 @@ Hi I'm Kat and I love game development and low level things. I'm currently tryin
 ### For the record...
 
 I'm [Ornithopter747](https://github.com/OrnitOnGithub), I lost full access to that account. I was still able to update my profile and transfer everything on here.
-
-## All my dope projects:
