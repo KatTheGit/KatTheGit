@@ -6,4 +6,7 @@ and I love game development and low level things. I'm currently trying to write 
 ### My GOATs:
 ![Rust](https://img.shields.io/badge/Rust-Compiler-pink?style=flat&logo=rust) ![Rust](https://img.shields.io/badge/Linux-Fedora/Garuda-pink?style=flat&logo=linux&logoColor=ffffff) ![Rust](https://img.shields.io/badge/Micro-Editor-pink?style=flat&logo=microeditor) ![NASM](https://img.shields.io/badge/NASM-Assembler-pink?style=flat&logo=intel) ![Linux](https://img.shields.io/badge/Gregory-House-pink?style=flat)
 
-## Dope stuff down here:
+## Dope sticker
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katthegit&theme=light)](https://github.com/anuraghazra/github-readme-stats) 
