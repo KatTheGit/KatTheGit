@@ -1,5 +1,4 @@
-Hi I'm Kat :)
-and I love game development and low level things. I'm currently working on an ever so slightly ambitious game, like a right proper gamedev.
+I am become programmer, maker of software
 
 <img src="https://github.com/user-attachments/assets/f6925a7b-7331-4761-b287-3a4e84d5b733" width="250" title="by Eric W. Schwartz" alt="My favourite panel from Sabrina Online about Microsoft bashing."/>
 
